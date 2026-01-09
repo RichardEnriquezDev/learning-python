@@ -25,3 +25,20 @@ To build solid programming foundations and gradually develop practical projects 
 > This repository is part of my continuous learning process.
 
 
+# Pizzeria Console App (v2)
+
+Console-based pizza ordering system built with Python.
+
+## Features
+- Dynamic menus
+- Cart with quantities
+- Add / remove items
+- Checkout system
+
+## Concepts used
+- Dictionaries
+- Lists
+- Functions
+- While loops
+- Input validation
+
