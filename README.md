@@ -42,3 +42,5 @@ Console-based pizza ordering system built with Python.
 - While loops
 - Input validation
 
+# Calculator (v2)
+Console calculator using dictionary-based operations and reusable menu system.
